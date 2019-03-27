@@ -1,2 +1,2 @@
 # LoginSpringOauth
-login Utilizando Spring Security e o suporte para o protocolo OAuth
+Login utilizando Spring e o Google
